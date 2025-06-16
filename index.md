@@ -29,10 +29,17 @@ version: "21/05/25"
 
 - [5. Busca la verdad, desarrolla un tema libre](04_tema_libre1.html)
 
+- [6. La creación](05_creacion.html) (Alternancia 4)
+
 
 <span hidden>Fin archivo</span>
 
-</div>
+<br>
+
+---
+
+**Verifica** tu progreso [aquí](https://iosephj.pythonanywhere.com/notas/cfr_relig6_25) poniendo como clave `progreso2025` y luego tu número de lista.
+
 <!-- HTML style definitions -->
 <style>
 /* Colors */
