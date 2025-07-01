@@ -19,17 +19,17 @@ version: "21/05/25"
 
 ## Guías de aprendizaje
 
-- [1. Sobre la vida de Jesús]() (Alternancia 1 - Visto con Alfredo, no hay guía de esto)
+- [0. Sobre la vida de Jesús]() (Alternancia 1 - Visto con Alfredo, no hay guía de esto)
 
-- [2. Felicidad y religión](01_felicidad_religion.html) (Una parte se desarrolló en la Alternancia 2)
+- [1. Felicidad y religión](01_felicidad_religion.html) (Una parte se desarrolló en la Alternancia 2)
 
-- [3. La existencia de Dios](02_existencia_dios.html)
+- [2. La existencia de Dios](02_existencia_dios.html)
 
-- [4. Sobre el alma](03_el_alma.html) (Alternancia 3)
+- [3. Sobre el alma](03_el_alma.html) (Alternancia 3)
 
-- [5. Busca la verdad, desarrolla un tema libre](04_tema_libre1.html)
+- [4. Busca la verdad, desarrolla un tema libre](04_tema_libre1.html)
 
-- [6. La creación](05_creacion.html) (Alternancia 4)
+- [5. La creación](05_creacion.html) (Alternancia 4)
 
 
 <span hidden>Fin archivo</span>
