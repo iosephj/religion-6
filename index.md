@@ -31,6 +31,8 @@ version: "21/05/25"
 
 - [5. La creación](05_creacion.html) (Alternancia 4)
 
+- [6. La creación y la existencia del mal (Alternancia 5)](06_creacion_2.html)
+
 
 <span hidden>Fin archivo</span>
 
