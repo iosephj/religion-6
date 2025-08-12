@@ -13,25 +13,34 @@ version: "21/05/25"
 **Año:** 2025
 
 **Profesor:** José Juarez
+
+<div class="size80">
+
+**Criterios de aprobación**
+
+- **Cuatrimestre 1:** Tener **A** en al menos 3 de las primeras 5 guías
+- **Cuatrimestre 2 (Desde Guía 6 en adelante):** 
+</div>
+
 </div>
 
 <br>
 
 ## Guías de aprendizaje
 
-- [0. Sobre la vida de Jesús]() (Alternancia 1 - Visto con Alfredo, no hay guía de esto)
+- [1. Sobre la vida de Jesús (Alternancia 1)]() (Visto con Alfredo, no hay guía de esto)
 
-- [1. Felicidad y religión](01_felicidad_religion.html) (Una parte se desarrolló en la Alternancia 2)
+- [2. Felicidad y religión (Parte en Alternancia 2)](01_felicidad_religion.html)
 
-- [2. La existencia de Dios](02_existencia_dios.html)
+- [3. La existencia de Dios](02_existencia_dios.html)
 
-- [3. Sobre el alma](03_el_alma.html) (Alternancia 3)
+- [4. Sobre el alma (Alternancia 3)](03_el_alma.html)
 
-- [4. Busca la verdad, desarrolla un tema libre](04_tema_libre1.html)
+- [5. Busca la verdad, desarrolla un tema libre](04_tema_libre1.html)
 
-- [5. La creación](05_creacion.html) (Alternancia 4)
+- [6. La creación (Alternancia 4)](05_creacion.html)
 
-- [6. La creación y la existencia del mal (Alternancia 5)](06_creacion_2.html)
+- [7. La creación y la existencia del mal (Alternancia 5)](06_creacion_2.html)
 
 
 <span hidden>Fin archivo</span>
