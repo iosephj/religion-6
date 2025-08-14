@@ -1,5 +1,5 @@
 ---
-title: "Unidad 2: La existencia de Dios"
+title: "La existencia de Dios"
 autor: "José Juarez"
 version: "21/05/25"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "4. Busca la verdad, desarrolla un tema libre"
+title: "Busca la verdad, desarrolla un tema libre"
 autor: "José Juarez"
 version: "05/06/25"
 ---

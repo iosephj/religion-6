@@ -1,5 +1,5 @@
 ---
-title: "5. La creación"
+title: "La creación"
 autor: "José Juarez"
 version: "16/06/25"
 ---

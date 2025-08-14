@@ -1,5 +1,5 @@
 ---
-title: "Unidad 3: El alma"
+title: "El alma"
 autor: "José Juarez"
 version: "21/05/25"
 ---

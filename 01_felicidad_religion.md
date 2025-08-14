@@ -1,5 +1,5 @@
 ---
-title: "Unidad 1: Felicidad y religión"
+title: "Felicidad y religión"
 autor: "José Juarez"
 version: "8/4/25"  
 ---
