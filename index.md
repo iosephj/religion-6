@@ -19,7 +19,7 @@ version: "21/05/25"
 **Criterios de aprobación**
 
 - **Cuatrimestre 1:** Tener **A** en al menos 3 de las primeras 5 guías
-- **Cuatrimestre 2 (Desde Guía 6 en adelante):** 
+- **Cuatrimestre 2 (Desde Guía 6 en adelante):** (Pendiente definir) 
 </div>
 
 </div>
@@ -41,6 +41,8 @@ version: "21/05/25"
 - [6. La creación (Alternancia 4)](05_creacion.html)
 
 - [7. La creación y la existencia del mal (Alternancia 5)](06_creacion_2.html)
+
+- [8. La creación, los demonios (parte en Alternancia 6)](07_creacion_3.html)
 
 
 <span hidden>Fin archivo</span>
