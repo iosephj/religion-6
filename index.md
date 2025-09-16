@@ -44,6 +44,7 @@ version: "21/05/25"
 
 - [8. La creación, los demonios (parte en Alternancia 6)](07_creacion_3.html)
 
+- [9. Escatología, lo que viene al final (parte en Alternancia 7)](08_escatologia.html)
 
 <span hidden>Fin archivo</span>
 
