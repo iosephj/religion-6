@@ -66,14 +66,29 @@ Es más importante meditar en como vivir para poder morir en la paz de Dios que 
 A veces no se habla tanto del infierno pero su existencia es una verdad de fe y es necesario saber que no hay nada, nada, en la tierra que se le pueda parece en horror, dolor, vacío, infelicidad, etc. Además es para siempre. Hace algunas décadas la Virgen María se apareció a tres pastorcitos en Fátima, Portugal. En una de esas apariciones la Virgen les mostrpo algo del horror del infierno. Investiga y escribe los datos de esta aparición y lo que los pastorcitos pudieron ver.
 
 
+
+<br><br>
+
+
+## Juicio final y resurrección
+
+La fe católica afirma que al final de los tiempos vendrá Cristo por segunda vez en forma gloriosa y con todo Poder. Entonces resucitarán los cuerpos de todos y vendrá el juicio final en donde se conocerán el mal y el bien de todos. Este juicio no cambia el veredicto (Cielo / infierno) del juicio personal que sucede en el momento de la muerte sino que manifiesta el alcance uniersal de nuestras buenas y malas acciones. Luego los condenados sufrirán del infierno no solo con su alma sino también con su cuerpo resusitado y entonces será doblemente horrible. En el caso de los que se salvan estarán en el Cielo en cuerpo y alma como Jesús y la Virgen ya están ahora.
+
+
+<br><br>
+
+
+## Actividad 3
+
+La Biblia no es la única fuente de la revelación para los cristianos católicos. También está el testimonio de como vivieron y como creyeron los cristianos de los primeros siglos. Por ejemplo un ejemplo de esto segundo es el Credo, en donde se resumen las verdades que se creen desde los primeros tiempos. 
+
+a) Busca y copia al menos dos pasajes bíblicos que hablen del juicio y resurrección final
+
+b) Copia la parte del Credo que habla de estos temas
+
+
+
 <div hidden>
-
-
-## 4. Juicio final y resurrección
-
-* **Juicio final:** momento en que toda la historia será puesta a la luz de la verdad y la justicia de Dios.
-* **Resurrección final:** el destino último no es un “alma flotando”, sino la vida plena con cuerpo resucitado, como Cristo.
-* Pregunta: ¿Cómo cambia tu manera de vivir hoy el saber que la historia tiene un sentido y un final en Dios?
 
 
 ## 5. “No sabemos ni el día ni la hora” (Mt 24,36)
