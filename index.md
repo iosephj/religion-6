@@ -19,7 +19,10 @@ version: "21/05/25"
 **Criterios de aprobación**
 
 - **Cuatrimestre 1:** Tener **A** en al menos 3 de las primeras 5 guías
-- **Cuatrimestre 2 (Desde Guía 6 en adelante):** (Pendiente definir) 
+
+- **Cuatrimestre 2 (Desde Guía 6 en adelante):**
+   + Bimestre 3: Tener **A** en al menos 2 de las guías 6, 7 y 8
+
 </div>
 
 </div>
@@ -45,6 +48,9 @@ version: "21/05/25"
 - [8. La creación, los demonios (parte en Alternancia 6)](07_creacion_3.html)
 
 - [9. Escatología, lo que viene al final (parte en Alternancia 7)](08_escatologia.html)
+
+- [10. Creación, tema libre (Alternancia 8)](09_creacion_libre.html)
+
 
 <span hidden>Fin archivo</span>
 
