@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<title>Fichas de tareas (anverso y reverso)</title>
+<style>
+        body {
+            margin: 0;
+        }
+        
+		.page {
+            width: 210mm;
+            height: 297mm;
+            padding: 7mm;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr); /* 2 columnas */
+            grid-template-rows: repeat(4, 1fr);    /* 4 filas */
+            gap: 10mm;
+            box-sizing: border-box; /* Incluye el padding y el borde en el tamaño total */
+        }
+
+        .ficha {
+            border: 1px solid grey;
+            padding: 10px;
+            box-sizing: border-box; /* Asegúrate de que el borde y el padding estén incluidos */
+            height: 63.25mm; /* Altura fija */
+            overflow: hidden; /* Recorta el contenido que excede el espacio */
+        }
+        .contenedor {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: flex-start;
+            justify-content: start;
+        }
+
+        .imagen {
+            margin-right: 20px;
+            margin-bottom: 10px;
+        }
+
+        .texto {
+            flex: 1;
+        }
+		
+		p {
+			margin-block-start: 0;  /* Saca espacio arriba del texto, estaba en 1em y bajaba mucho */
+		}
+		
+        @media print {
+            body {
+                margin: 0;
+            }
+            .page {
+                height: auto; /* Permite que la altura se ajuste automáticamente al contenido */
+                page-break-after: always; /* Asegúrate de que cada página se imprima correctamente */
+            }
+            .ficha {
+                page-break-inside: avoid; /* Evita que una ficha se divida entre páginas */
+            }
+        }
+		
+		<!-- Other Style definitions -->
+
+		/* Colors */
+		.grey1 {color: #b3b3b3;} /* my light-grey */
+		.grey2 {color: #999999;} /* my middle-grey */
+		.grey3 {color: #808080;} /* my dark-grey */
+		.blue1 {color: #6495ed;} /* nvim blue */
+		.blue2 {color: #276cdf;} /* Andrew Ng Blue */
+		.sky1 {color: #7dbed8;} /* nvim sky */
+		.sky2 {color: #27a2db;}   /* my sky */
+		.green {color: #81b524;} /* my green */
+		.red1 {color: #ec5469;} /* my coral-red */
+		.red2 {color: #f44336;} /* my red */
+		.rose {color: #ec9998:} /* nvim rose */
+		.gold {color: #df9d43;} /* Andrew Ng gold */
+		.orange1 {color: #fda556;} /* nvim orange */
+		.orange2 {color: #ff9505;} /*Andrew Ng orange */
+		.purple1 {color: #ff40ff;} /* Andrew Ng purple */
+		.purple2 {color: #d164d7;} /* Andrew Ng purple */
+		/* Font Size */
+		.card-size100 {font-size: 1em;}
+		.card-size90 {font-size: 0.9em;}
+		.card-size85 {font-size: 0.85em;}
+		.card-size80 {font-size: 0.8em;}
+		.card-size70 {font-size: 0.7em;}
+		.card-size60 {font-size: 0.6em;}
+</style>
+</head>
+<body class="card-size90">
+<!-- Anverso (frente) -->
+<div class="page front">
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>relig6 - 1. Sobre La Felicidad</strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> Buscar en un diccionario y anotar definiciones breves de: Emoción, Alegría, Placer y Felicidad. Según lo encontrado ¿Cuál de todas estas es más perdurable en el tiempo?</p>
+<p><strong>2)</strong> Observar el video: “QUE NOS MANTIENE FELICES - Estudio universidad de Hardvard”, con Robert Waldinger, y que está en Youtube en varios canales, uno es: “Ilustre Municipalidad de Ñiquén”</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>relig6 - 1. Sobre La Felicidad</strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> Buscar en un diccionario y anotar definiciones breves de: Emoción, Alegría, Placer y Felicidad. Según lo encontrado ¿Cuál de todas estas es más perdurable en el tiempo?</p>
+<p><strong>2)</strong> Observar el video: “QUE NOS MANTIENE FELICES - Estudio universidad de Hardvard”, con Robert Waldinger, y que está en Youtube en varios canales, uno es: “Ilustre Municipalidad de Ñiquén”</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>relig6 - 1. Sobre La Felicidad</strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> Buscar en un diccionario y anotar definiciones breves de: Emoción, Alegría, Placer y Felicidad. Según lo encontrado ¿Cuál de todas estas es más perdurable en el tiempo?</p>
+<p><strong>2)</strong> Observar el video: “QUE NOS MANTIENE FELICES - Estudio universidad de Hardvard”, con Robert Waldinger, y que está en Youtube en varios canales, uno es: “Ilustre Municipalidad de Ñiquén”</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>relig6 - 1. Sobre La Felicidad</strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> Buscar en un diccionario y anotar definiciones breves de: Emoción, Alegría, Placer y Felicidad. Según lo encontrado ¿Cuál de todas estas es más perdurable en el tiempo?</p>
+<p><strong>2)</strong> Observar el video: “QUE NOS MANTIENE FELICES - Estudio universidad de Hardvard”, con Robert Waldinger, y que está en Youtube en varios canales, uno es: “Ilustre Municipalidad de Ñiquén”</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>relig6 - 1. Sobre La Felicidad</strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> Buscar en un diccionario y anotar definiciones breves de: Emoción, Alegría, Placer y Felicidad. Según lo encontrado ¿Cuál de todas estas es más perdurable en el tiempo?</p>
+<p><strong>2)</strong> Observar el video: “QUE NOS MANTIENE FELICES - Estudio universidad de Hardvard”, con Robert Waldinger, y que está en Youtube en varios canales, uno es: “Ilustre Municipalidad de Ñiquén”</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>relig6 - 1. Sobre La Felicidad</strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> Buscar en un diccionario y anotar definiciones breves de: Emoción, Alegría, Placer y Felicidad. Según lo encontrado ¿Cuál de todas estas es más perdurable en el tiempo?</p>
+<p><strong>2)</strong> Observar el video: “QUE NOS MANTIENE FELICES - Estudio universidad de Hardvard”, con Robert Waldinger, y que está en Youtube en varios canales, uno es: “Ilustre Municipalidad de Ñiquén”</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>relig6 - 1. Sobre La Felicidad</strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> Buscar en un diccionario y anotar definiciones breves de: Emoción, Alegría, Placer y Felicidad. Según lo encontrado ¿Cuál de todas estas es más perdurable en el tiempo?</p>
+<p><strong>2)</strong> Observar el video: “QUE NOS MANTIENE FELICES - Estudio universidad de Hardvard”, con Robert Waldinger, y que está en Youtube en varios canales, uno es: “Ilustre Municipalidad de Ñiquén”</p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="front_page">
+<p><strong>relig6 - 1. Sobre La Felicidad</strong></p>
+<!-- Insertar <br> antes de cada pregunta, excepto la primera de cada hoja, sin dejar líneas vacías entre preguntas -->
+<p><strong>1)</strong> Buscar en un diccionario y anotar definiciones breves de: Emoción, Alegría, Placer y Felicidad. Según lo encontrado ¿Cuál de todas estas es más perdurable en el tiempo?</p>
+<p><strong>2)</strong> Observar el video: “QUE NOS MANTIENE FELICES - Estudio universidad de Hardvard”, con Robert Waldinger, y que está en Youtube en varios canales, uno es: “Ilustre Municipalidad de Ñiquén”</p>
+</div></body></html></div>
+</div>
+<!-- Reverso (dorso) -->
+<div class="page back">
+<div class="ficha"><html><body><div class="back_page">
+<p><strong>3)</strong> Escribe una reflexión sobre el video de 2), es decir trata de expresar cual es el aporte de este estudio y que opinión te merece. Entre 5 y 7 renglones.</p>
+<p><strong>4)</strong> Prepara una breve exposión oral, entre 1 y 2 minutos, sobre lo que significa la delicidad y su conexión con Dios.</p>
+<p><span class="size70">— Esta guía se aprueba presentando la parte escrita y charlando con el profesor sobre el 4) —</span></p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p><strong>3)</strong> Escribe una reflexión sobre el video de 2), es decir trata de expresar cual es el aporte de este estudio y que opinión te merece. Entre 5 y 7 renglones.</p>
+<p><strong>4)</strong> Prepara una breve exposión oral, entre 1 y 2 minutos, sobre lo que significa la delicidad y su conexión con Dios.</p>
+<p><span class="size70">— Esta guía se aprueba presentando la parte escrita y charlando con el profesor sobre el 4) —</span></p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p><strong>3)</strong> Escribe una reflexión sobre el video de 2), es decir trata de expresar cual es el aporte de este estudio y que opinión te merece. Entre 5 y 7 renglones.</p>
+<p><strong>4)</strong> Prepara una breve exposión oral, entre 1 y 2 minutos, sobre lo que significa la delicidad y su conexión con Dios.</p>
+<p><span class="size70">— Esta guía se aprueba presentando la parte escrita y charlando con el profesor sobre el 4) —</span></p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p><strong>3)</strong> Escribe una reflexión sobre el video de 2), es decir trata de expresar cual es el aporte de este estudio y que opinión te merece. Entre 5 y 7 renglones.</p>
+<p><strong>4)</strong> Prepara una breve exposión oral, entre 1 y 2 minutos, sobre lo que significa la delicidad y su conexión con Dios.</p>
+<p><span class="size70">— Esta guía se aprueba presentando la parte escrita y charlando con el profesor sobre el 4) —</span></p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p><strong>3)</strong> Escribe una reflexión sobre el video de 2), es decir trata de expresar cual es el aporte de este estudio y que opinión te merece. Entre 5 y 7 renglones.</p>
+<p><strong>4)</strong> Prepara una breve exposión oral, entre 1 y 2 minutos, sobre lo que significa la delicidad y su conexión con Dios.</p>
+<p><span class="size70">— Esta guía se aprueba presentando la parte escrita y charlando con el profesor sobre el 4) —</span></p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p><strong>3)</strong> Escribe una reflexión sobre el video de 2), es decir trata de expresar cual es el aporte de este estudio y que opinión te merece. Entre 5 y 7 renglones.</p>
+<p><strong>4)</strong> Prepara una breve exposión oral, entre 1 y 2 minutos, sobre lo que significa la delicidad y su conexión con Dios.</p>
+<p><span class="size70">— Esta guía se aprueba presentando la parte escrita y charlando con el profesor sobre el 4) —</span></p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p><strong>3)</strong> Escribe una reflexión sobre el video de 2), es decir trata de expresar cual es el aporte de este estudio y que opinión te merece. Entre 5 y 7 renglones.</p>
+<p><strong>4)</strong> Prepara una breve exposión oral, entre 1 y 2 minutos, sobre lo que significa la delicidad y su conexión con Dios.</p>
+<p><span class="size70">— Esta guía se aprueba presentando la parte escrita y charlando con el profesor sobre el 4) —</span></p>
+</div></body></html></div>
+<div class="ficha"><html><body><div class="back_page">
+<p><strong>3)</strong> Escribe una reflexión sobre el video de 2), es decir trata de expresar cual es el aporte de este estudio y que opinión te merece. Entre 5 y 7 renglones.</p>
+<p><strong>4)</strong> Prepara una breve exposión oral, entre 1 y 2 minutos, sobre lo que significa la delicidad y su conexión con Dios.</p>
+<p><span class="size70">— Esta guía se aprueba presentando la parte escrita y charlando con el profesor sobre el 4) —</span></p>
+</div></body></html></div>
+</div>
+</body>
+</html>
