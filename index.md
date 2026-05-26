@@ -12,9 +12,15 @@ version: "21/05/26"
 
 **Profesor:** José Juarez
 
-<div hidden>
 <div class="size80">
 **Criterios de aprobación**
+
+- **Bimestre 1:** 
+
+  + Tener **A** en la guía 1 (Felicidad) incluyendo el punto 4 que es un coloquio con el profesor. 
+  + Haber entregado al menos la tarea de la guía 2
+
+<div hidden>
 - **Cuatrimestre 1:** Tener **A** en al menos 3 de las primeras 5 guías
 - **Cuatrimestre 2 (Desde Guía 6 en adelante):**
 </div>
@@ -30,10 +36,10 @@ version: "21/05/26"
 
 - [2. Sábana Santa - Resurrección](02_sabana_sta.html)
 
+- [3. La existencia de Dios](03_existencia_dios.html)
 
 <div hidden>
 
-- [3. La existencia de Dios](02_existencia_dios.html)
 
 - [4. Sobre el alma (Alternancia 3)](03_el_alma.html)
 
