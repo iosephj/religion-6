@@ -32,12 +32,18 @@ version: "21/05/26"
 
 ## Guías de aprendizaje
 
-- [1. Felicidad](01_felicidad.html) 
+- [1. Felicidad](01_felicidad.html)
+   <br>&emsp;<span class="grey3 size80">Alternancia 1: Presentarla completa (Pto. 4 coloquio)</span>
 
 - [2. Sábana Santa - Resurrección](02_sabana_sta.html)
+   <br>&emsp;<span class="grey3 size80">Alternancia 2: Presentarla completa (Pto. 4 coloquio)</span>
 
 - [3. La existencia de Dios](03_existencia_dios.html)
-
+   <br>&emsp;<span class="grey3 size80">Alternancia 3: (Pto. 1 coloquio)</span>
+ 
+- [4. La existencia del alma](04_alma.html)
+   <br>&emsp;<span class="grey3 size80">Alternancia 4: (Ptos. 3 y 4 por escrito)</span>
+ 
 <div hidden>
 
 
