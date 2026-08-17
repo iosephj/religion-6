@@ -49,12 +49,11 @@ version: "21/05/26"
 - [6. Creación (2)](06_creacion2.html)
    <br>&emsp;<span class="grey3 size80">Alternancia 5</span>
 
+- [7. Creación (3)](07_creacion3.html)
+
 
 
 <div hidden>
-
-
-- [4. Sobre el alma (Alternancia 3)](03_el_alma.html)
 
 - [5. Busca la verdad, desarrolla un tema libre](04_tema_libre1.html)
 
@@ -70,11 +69,14 @@ version: "21/05/26"
 
 </div>
 
-<span hidden>Fin archivo</span>
-
 <br>
 
 ---
+
+**Verifica** tu avance [aquí](https://script.google.com/macros/s/AKfycbyvHb0UdlvLyjDOfbcyq1EIbvj0KpIKTzec9dcPJwlIu34WPe4EptGnaYw7xaRJ4naX4Q/exec) poniendo como clave tu DNI.
+
+
+<span hidden>Fin archivo</span>
 
 
 <!-- HTML style definitions -->
