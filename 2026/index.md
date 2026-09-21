@@ -43,13 +43,19 @@ version: "21/05/26"
 - [4. La existencia del alma](04_alma.html)
    <br>&emsp;<span class="grey3 size80">Alternancia 4: (Ptos. 3 y 4 por escrito)</span>
  
-- [5. Creación (1)](05_creacion1.html)
+- [5. Creación (1) - Origen del mundo y dignidad humana.](05_creacion1.html)
  
-
-- [6. Creación (2)](06_creacion2.html)
+- [6. Creación (2) - Ángeles. Existencia del mal.](06_creacion2.html)
    <br>&emsp;<span class="grey3 size80">Alternancia 5</span>
 
-- [7. Creación (3)](07_creacion3.html)
+- [7. Creación (3) - El demonio.](07_creacion3.html)
+   <br>&emsp;<span class="grey3 size80">Alternancia 6. Es obligatorio solo el pto 1 (escrito y oral).</span>
+
+- [8. Escatología: fin y plenitud de lo creado](08_escatologia.html)
+
+- [9. Preguntas sobre la creación, el ser humano y su destino](09_creacion_hombre_destino.html)
+   <br>&emsp;<span class="grey3 size80">Alternancia 7.</span>
+
 
 
 
