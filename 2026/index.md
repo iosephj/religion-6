@@ -19,10 +19,10 @@ version: "21/05/26"
    <br>&emsp;- **Bimestre 1:** Tener **A** en la guía 1
    <br>&emsp;- **Bimestre 2:** Tener **A** en guías 2, 3, 4 y 5 
 
-<div hidden>
-- **Cuatrimestre 1:** Tener **A** en al menos 3 de las primeras 5 guías
-- **Cuatrimestre 2 (Desde Guía 6 en adelante):**
-</div>
+- **Cuatrimestre 2:** Tener *+A** en ambos bimestres
+   <br>&emsp;- **Bimestre 3:** Tener **A** en las guías 6, 7 y 8.
+
+
 </div>
 
 </div>
@@ -56,24 +56,11 @@ version: "21/05/26"
 - [9. Preguntas sobre la creación, el ser humano y su destino](09_creacion_hombre_destino.html)
    <br>&emsp;<span class="grey3 size80">Alternancia 7.</span>
 
+- [10. Jesús habla a los galeotes](10_cristo_galeotes.html)
+
+- [11. Jesús predica con el trabajo en Corazín](11_cristo_carpintero_corazin.html)
 
 
-
-<div hidden>
-
-- [5. Busca la verdad, desarrolla un tema libre](04_tema_libre1.html)
-
-- [6. La creación (Alternancia 4)](05_creacion.html)
-
-- [7. La creación y la existencia del mal (Alternancia 5)](06_creacion_2.html)
-
-- [8. La creación, los demonios (parte en Alternancia 6)](07_creacion_3.html)
-
-- [9. Escatología, lo que viene al final (parte en Alternancia 7)](08_escatologia.html)
-
-- [10. Creación, tema libre (Alternancia 8)](09_creacion_libre.html)
-
-</div>
 
 <br>
 
