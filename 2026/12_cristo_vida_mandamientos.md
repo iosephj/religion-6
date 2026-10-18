@@ -29,7 +29,7 @@ Varios siglos antes del nacimiento de Jesús, la Biblia nos cuenta que Dios entr
 
 :::
 
->Para aprobar esta guía debes mostrar completa la parte escrita.
+>Para aprobar esta guía debes mostrar completa la parte escrita y responder oralmente las preguntas que te haga el profesor.
 
 
 
