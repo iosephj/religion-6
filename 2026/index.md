@@ -60,6 +60,8 @@ version: "21/05/26"
 
 - [11. Jesús predica con el trabajo en Corazín](11_cristo_carpintero_corazin.html)
 
+- [12. Jesús quiere que cumplamos los 10 mandamientos](12_cristo_vida_mandamientos.html)
+   <br>&emsp;<span class="grey3 size80">Alternancia 8.</span>
 
 
 <br>
